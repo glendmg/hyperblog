@@ -1,0 +1,3 @@
+Estaa es una prueba de git
+
+Creo este archivo con herrores para coorregir y después ver el historial.
