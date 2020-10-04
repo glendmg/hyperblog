@@ -5,3 +5,7 @@ Creo este archivo con errores para corregir y después ver el historial.
 Agrego otra la linea de texto para verlo en el control de versiones.
 
 Agrego un ultimo párrafo para el control
+
+Otra linea para el control de cambios,
+Pongo un enter a proposito para verlo reflejado.
+
