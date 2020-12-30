@@ -1,4 +1,4 @@
-Hola, soy Glend Muñoz y tengo 41 años.
+git logHola, soy Glend Muñoz y tengo 41 años.
 
 Para los años 2012 me desplazé de la zona sur a vivir en área metropolitana en 
 la zona de 4 Reinas de Tibas.
@@ -12,3 +12,5 @@ Luego me desplazé al Cristo de Sabanilla.
 Luego, tiempo después me pasé a vivir al sector de Aserrí con mi amiga Silvia, donde estoy hasta la fecha.
 
 Es hora de empezar a proyectar mi casa propia.
+
+Master 1
